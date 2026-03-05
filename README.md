@@ -11,7 +11,7 @@ C# desktop application that visualizes file system directories using tree and ba
 ## Screenshots
 
 ### Tree View
-![Tree](tree.png)
+![Tree](Tree.png)
 
 ### Bar Chart
 ![Bar](bar.png)
